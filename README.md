@@ -17,3 +17,8 @@
 			分发Action: store.dispatch()方法触发
 
 	5、modules: 分stroe分割到模块，每个模块都有自己的state、mutation、action、getters
+
+
+
+
+
